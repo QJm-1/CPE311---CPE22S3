@@ -1,5 +1,11 @@
 My summary for this every procedures that was made for this module
 is that every part of this module procedures we start of from using the token from NCEI API as the procedure continues we are to use csv files 
 that we are able to maneuver / configure wihtin the file. With certain techniques that it will be easy to see what you want to see within the certain csv files.
+For 8.1 Weather Data Collection from using the token to get datas from the Year 2018 to 2019. 
+Firstly turning the gathered data from NCEI API into a csv file, and that file can be used for later procedures.
+For 8.2 Querying and Merging, still using the file we can call the data from the csv file into a dataframe and trying some functions that would enable to see certain datas from the dataframe,
+and merging datas.
+For 8.3 DataFrame Operations, we can use methods, which allow us to specify the axis to perform the calculation over. Like solving / looking for z_scores.
+In 8.4 Aggregations, we are able to use functions that would somehow aggregate datas from a specific dataframe csv file.
 For example between_time() this function from 8.5 Time Series, grabs data for the last two minutes of trading daily. 
 Also the first() method, also from 8.5 Time Series will give us a specified length of time from the beginning of the time series

@@ -1,1 +1,5 @@
-
+My summary for this every procedures that was made for this module
+is that every part of this module procedures we start of from using the token from NCEI API as the procedure continues we are to use csv files 
+that we are able to maneuver / configure wihtin the file. With certain techniques that it will be easy to see what you want to see within the certain csv files.
+For example between_time() this function from 8.5 Time Series, grabs data for the last two minutes of trading daily. 
+Also the first() method, also from 8.5 Time Series will give us a specified length of time from the beginning of the time series
